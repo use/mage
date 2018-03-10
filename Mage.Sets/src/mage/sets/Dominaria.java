@@ -28,6 +28,7 @@
 package mage.sets;
 
 import mage.cards.ExpansionSet;
+import mage.constants.Rarity;
 import mage.constants.SetType;
 
 /**
@@ -51,5 +52,10 @@ public class Dominaria extends ExpansionSet {
         this.numBoosterUncommon = 3;
         this.numBoosterRare = 1;
         this.ratioBoosterMythic = 8;
+
+        cards.add(new SetCardInfo("Ghitu Lavarunner", 1, Rarity.COMMON, mage.cards.g.GhituLavarunner.class));
+        cards.add(new SetCardInfo("Wizard's Lightning", 2, Rarity.COMMON, mage.cards.w.WizardsLightning.class));
+        cards.add(new SetCardInfo("Jaya Ballard", 3, Rarity.MYTHIC, mage.cards.j.JayaBallard.class));
+        
     }
 }
