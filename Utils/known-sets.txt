@@ -40,6 +40,7 @@ Dissension|Dissension|
 Dominaria|Dominaria|
 Dragon's Maze|DragonsMaze|
 Dragons of Tarkir|DragonsOfTarkir|
+Dellie World|DellieWorld|
 Duel Decks: Ajani vs. Nicol Bolas|DuelDecksAjaniVsNicolBolas|
 Duel Decks: Anthology, Divine vs. Demonic|DuelDecksAnthologyDivineVsDemonic|
 Duel Decks: Anthology, Elves vs. Goblins|DuelDecksAnthologyElvesVsGoblins|
