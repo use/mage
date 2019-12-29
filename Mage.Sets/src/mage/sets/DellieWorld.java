@@ -33,6 +33,7 @@ public final class DellieWorld extends ExpansionSet {
         cards.add(new SetCardInfo("Leonin Reinforcer", 5, Rarity.RARE, mage.cards.l.LeoninReinforcer.class));
         cards.add(new SetCardInfo("Leonin Requisitioner", 6, Rarity.UNCOMMON, mage.cards.l.LeoninRequisitioner.class));
         cards.add(new SetCardInfo("Lost Pride Champion", 7, Rarity.RARE, mage.cards.l.LostPrideChampion.class));
+        cards.add(new SetCardInfo("Lost Pride Avenger", 18, Rarity.MYTHIC, mage.cards.l.LostPrideAvenger.class));
         cards.add(new SetCardInfo("Pridecaller", 8, Rarity.UNCOMMON, mage.cards.p.Pridecaller.class));
         cards.add(new SetCardInfo("Prowl Squad Commander", 16, Rarity.RARE, mage.cards.p.ProwlSquadCommander.class));
         cards.add(new SetCardInfo("Realm Guardian", 9, Rarity.RARE, mage.cards.r.RealmGuardian.class));
