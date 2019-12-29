@@ -34,11 +34,13 @@ public final class DellieWorld extends ExpansionSet {
         cards.add(new SetCardInfo("Leonin Requisitioner", 6, Rarity.UNCOMMON, mage.cards.l.LeoninRequisitioner.class));
         cards.add(new SetCardInfo("Lost Pride Champion", 7, Rarity.RARE, mage.cards.l.LostPrideChampion.class));
         cards.add(new SetCardInfo("Pridecaller", 8, Rarity.UNCOMMON, mage.cards.p.Pridecaller.class));
+        cards.add(new SetCardInfo("Prowl Squad Commander", 16, Rarity.RARE, mage.cards.p.ProwlSquadCommander.class));
         cards.add(new SetCardInfo("Realm Guardian", 9, Rarity.RARE, mage.cards.r.RealmGuardian.class));
         cards.add(new SetCardInfo("Stonepaw Brawler", 10, Rarity.RARE, mage.cards.s.StonepawBrawler.class));
         cards.add(new SetCardInfo("Stonepaw Martialist", 11, Rarity.RARE, mage.cards.s.StonepawMartialist.class));
         cards.add(new SetCardInfo("Wildclaw Reclaimer", 12, Rarity.UNCOMMON, mage.cards.w.WildclawReclaimer.class));
         cards.add(new SetCardInfo("Wildclaw Recruit", 13, Rarity.UNCOMMON, mage.cards.w.WildclawRecruit.class));
+        cards.add(new SetCardInfo("Skypounce Captain", 17, Rarity.RARE, mage.cards.s.SkyPounceCaptain.class));
         cards.add(new SetCardInfo("Wildclaw Tracker", 14, Rarity.COMMON, mage.cards.w.WildclawTracker.class));
         cards.add(new SetCardInfo("Wildclaw Vanguard", 15, Rarity.UNCOMMON, mage.cards.w.WildclawVanguard.class));
     }
